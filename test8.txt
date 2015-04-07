@@ -1,4 +1,8 @@
 test 8 done !!!
 darshan
 this is my first test
+<<<<<<< HEAD
 after conflict
+modified
+changed
+ok
