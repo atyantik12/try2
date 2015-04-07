@@ -6,6 +6,7 @@ test 8 dooooooooooooo!!!
 rutul shah here :)
 >>>>>>> 1cc7b75ce6add5a1e99e122db6d3f90bf97bd89a
 test 8 done !!!
+<<<<<<< HEAD
 darshan
 this is my first test
 
@@ -20,4 +21,15 @@ after conflict
 modified
 changed
 ok
+<<<<<<< HEAD
+okiii
+
+fyn1
+
+
+
+done by rutul
+
+=======
 done
+>>>>>>> d7c4988fd1a7e622eb682fad55568454bace6c8e
