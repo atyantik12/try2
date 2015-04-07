@@ -20,3 +20,4 @@ after conflict
 modified
 changed
 ok
+done
