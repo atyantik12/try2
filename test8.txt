@@ -3,5 +3,9 @@ test 8 dooooooooooooo!!!
 =======
 test 8 done !!!
 this is my first test
+<<<<<<< HEAD
 >>>>>>> 6101dc466942c57696c11fff644823a42cf44c66
 helooooo
+=======
+modified
+>>>>>>> 3108451a43fb4db9d713a7b8811489b17c6ac2b1
