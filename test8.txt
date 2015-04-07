@@ -1,18 +1,15 @@
-<<<<<<< HEAD
 rutul shah here :)
-=======
 test 8 done !!!
+darshan
 this is my first test
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 9e28fed46de104fd31414f6ebfb379cbb4c37aaf
 rutul here
-=======
 modified
->>>>>>> 3108451a43fb4db9d713a7b8811489b17c6ac2b1
 rutul here
-=======
 modified
 changed
->>>>>>> d386a7ecc20b09e08b2d7226c88613121ddd168b
 oki
+after conflict
+modified
+changed
+ok
+okiii
