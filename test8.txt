@@ -12,7 +12,3 @@ after conflict
 modified
 changed
 ok
-okiii
-
-fyn1
-
